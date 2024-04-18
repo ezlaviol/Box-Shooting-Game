@@ -140,7 +140,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   motionState: 1
   spinSpeed: 180
-  motionMagnitude: 0.123
+  motionMagnitude: 0.2
 --- !u!114 &5863260946682986594
 MonoBehaviour:
   m_ObjectHideFlags: 0
